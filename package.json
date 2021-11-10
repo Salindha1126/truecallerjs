@@ -1,0 +1,69 @@
+{
+  "name": "truecallerjs",
+  "version": "1.0.0",
+  "description": "truecallerjs : A simple package to search phone number details.",
+  "main": "index.js",
+  "bin": {
+    "truecallerjs": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "cliui": "^7.0.4",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "colors": "^1.4.0",
+    "emoji-regex": "^8.0.0",
+    "escalade": "^3.1.1",
+    "follow-redirects": "^1.14.5",
+    "get-caller-file": "^2.0.5",
+    "is-fullwidth-code-point": "^3.0.0",
+    "readline-sync": "^1.4.10",
+    "require-directory": "^2.1.1",
+    "sax": "^1.2.4",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "wrap-ansi": "^7.0.0",
+    "xml2js": "^0.4.23",
+    "xmlbuilder": "^11.0.1",
+    "y18n": "^5.0.8",
+    "yargs": "^17.2.1",
+    "yargs-parser": "^20.2.9"
+  },
+  "scripts": {
+    "test": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumithemmadi/truecallerjs.git"
+  },
+  "keywords": [
+    "truecallerjs",
+    "truecaller",
+    "Caller name",
+    "XML",
+    "Yaml",
+    "Name",
+    "Html",
+    "Number",
+    "Mobile",
+    "Caller",
+    "Search",
+    "Truecallerjs",
+    "JsonToXml",
+    "JsonToYaml",
+    "Details"
+  ],
+  "author": "sumithemmadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumithemmadi/truecallerjs/issues"
+  },
+  "homepage": "https://github.com/sumithemmadi/truecallerjs#readme"
+}
